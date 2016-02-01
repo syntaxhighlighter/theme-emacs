@@ -2,11 +2,11 @@
 
 Emacs theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/theme-emacs.svg)](https://travis-ci.org/alexgorbatchev/theme-emacs)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/theme-emacs.svg)](https://travis-ci.org/syntaxhighlighter/theme-emacs)
 
 ## Installation
 
-    npm install syntaxhighlighter/theme-emacs
+    npm install @alexgorbatchev/theme-emacs
 
 ## Testing
 
