@@ -1,5 +1,5 @@
 {
-  "name": "theme-emacs",
+  "name": "@alexgorbatchev/theme-emacs",
   "version": "4.0.0",
   "main": "theme.scss",
   "keywords": [
