@@ -2,15 +2,15 @@
 
 [![GratiPay](https://img.shields.io/gratipay/user/alexgorbatchev.svg)](https://gratipay.com/alexgorbatchev/)
 [![Build Status](https://travis-ci.org/syntaxhighlighter/theme-emacs.svg)](https://travis-ci.org/syntaxhighlighter/theme-emacs)
-![Downloads](https://img.shields.io/npm/dm/@alexgorbatchev/theme-emacs.svg)
-![Version](https://img.shields.io/npm/v/@alexgorbatchev/theme-emacs.svg)
+![Downloads](https://img.shields.io/npm/dm/theme-emacs.svg)
+![Version](https://img.shields.io/npm/v/theme-emacs.svg)
 
 Emacs theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter).
 
 ## Installation
 
 ```
-npm install @alexgorbatchev/theme-emacs
+npm install theme-emacs
 ```
 
 ## Usage
